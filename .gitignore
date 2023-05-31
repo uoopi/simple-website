@@ -60,3 +60,6 @@
 /drush
 /drupal.phar
 /drupal
+
+# Ignore multi-site test environment.
+sites/simpletest
